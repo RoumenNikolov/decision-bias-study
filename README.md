@@ -1,4 +1,4 @@
-# NBA Referee Bias Analysis
+# Two Channels of Home-Court Advantage: NBA Close Games as a Testbed
 
 ## Overview
 
